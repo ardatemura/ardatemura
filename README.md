@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Arda Özgüç Temur</h1>
 <h3 align="center">İstanbul</h3>
 
-<h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
 </p>
 
